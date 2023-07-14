@@ -1,16 +1,13 @@
-### Hi there 👋
+#*Safari style sheet that changes to macOS default font
 
-<!--
-**doqemddl04/doqemddl04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###This CSS file is a style sheet for use with Safari on your Mac.
 
-Here are some ideas to get you started:
+###When you apply this file, Apple's San Francisco font, the default font for macOS, can apply the entire web page.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Follow these guidelines for application..
+
+###1. Install the uploaded CSS file.
+###2. Open Safari and press ⌘ and , together.
+###3. Click the Advanced tab, and select a list of stylesheets.
+
+###The application may not work immediately, so exit Safari and run it again.
