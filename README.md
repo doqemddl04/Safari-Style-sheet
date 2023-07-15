@@ -14,5 +14,5 @@ You may not apply it immediately, so exit Safari and run it again.
 ![image](https://github.com/doqemddl04/macOS/assets/123877199/4f469be7-7757-4483-9eb0-889599afc1f3)
 
 ## Feature
--Safari allows you to change all web pages to Apple System UI Fonts.
--Some websites may display special characters or emoticons as .notdef glyphs.
+- Safari allows you to change all web pages to Apple System UI Fonts.
+- Some websites may display special characters or emoticons as .notdef glyphs.
