@@ -10,7 +10,7 @@ Follow these guidelines for application.
 2. Open Safari and press ⌘ and , together.
 3. Click the Advanced tab, and select a list of stylesheets.
 
-It might not be applied right away, so exit Safari and run it again.
+It might not be applied right away, exit Safari and run it again.
 
 이 CSS 파일은 Mac의 Safari에서 사용할 수 있는 스타일 시트입니다.
 
