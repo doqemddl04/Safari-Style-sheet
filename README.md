@@ -4,7 +4,7 @@ This CSS file is a style sheet that you can use with Safari on your Mac.
 
 When you apply this file, Apple's San Francisco font, the default font for macOS, can apply the entire web page.
 
-Follow these guidelines for application.
+Follow these guidelines for apply.
 
 1. Install the uploaded CSS file.
 2. Open Safari and press ⌘ and , together.
