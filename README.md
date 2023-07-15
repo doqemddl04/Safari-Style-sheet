@@ -1,6 +1,6 @@
 # Safari style sheet that changes to macOS default font
 
-This CSS file is a style sheet for use with Safari on your Mac.
+This CSS file is a style sheet that you can use with Safari on your Mac.
 
 When you apply this file, Apple's San Francisco font, the default font for macOS, can apply the entire web page.
 
@@ -12,7 +12,7 @@ Follow these guidelines for application.
 
 The application may not work immediately, so exit Safari and run it again.
 
-이 CSS 파일은 Mac의 Safari에서 사용할 스타일 시트입니다.
+이 CSS 파일은 Mac의 Safari에서 사용할 수 있는 스타일 시트입니다.
 
 이 파일을 적용할 시, macOS의 기본 폰트인 Apple의 San Francisco 글꼴이 웹페이지 전체를 적용시킬 수 있습니다.
 
