@@ -11,7 +11,7 @@ When you apply this file, Apple System UI Font, the default font for macOS, can 
 
 You may not apply it immediately, so exit Safari and run it again.
 
-![image](https://github.com/doqemddl04/macOS/assets/123877199/4f469be7-7757-4483-9eb0-889599afc1f3)
+<img width="1440" alt="Screenshot 2023-07-16 at 3 31 31 PM" src="https://github.com/mutzingoyangee/Safari-Style-sheet/assets/123877199/be64784c-75d4-4d48-980c-44efd5feeeaa">
 
 ## Feature
 - Safari allows you to change all web pages to Apple System UI Fonts.
