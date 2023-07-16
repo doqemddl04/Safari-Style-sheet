@@ -1,6 +1,6 @@
 # Safari style sheet that changes to macOS default font
 
-This CSS file is a style sheet that you can use with Safari on your Mac.
+This CSS file is a style sheet that you can use with Safari on your Mac. 😀
 
 When you apply this file, Apple System UI Font, the default font for macOS, can apply the entire web page.
 
