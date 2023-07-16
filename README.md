@@ -16,6 +16,7 @@ You may not apply it immediately, so exit Safari and run it again.
 ## Feature
 - Safari allows you to change all web pages to Apple System UI Fonts.
 - Some websites may display special characters or emoticons as .notdef glyphs.
+- Full web page translation feature allows emoticons and special symbols to be displayed as .notdef.
 
 ## License
 [MIT](https://github.com/mutzingoyangee/Safari-Style-sheet/blob/main/LICENSE)
