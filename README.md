@@ -1,4 +1,4 @@
-# Safari style sheet that changes to macOS default font
+# Safari Style sheets that changes to macOS default font
 
 This CSS file is a style sheet that you can use with Safari on your Mac.
 
